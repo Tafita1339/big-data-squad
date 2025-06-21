@@ -2,6 +2,12 @@
 
 Dans ce README.md, vous allez voir le détail de l'installation et le setup de la partie A.
 
+## Prérequis
+
+- Python 3.8+ installé sur votre machine  
+- Git (optionnel, pour cloner ce dépôt)  
+- Accès internet pour télécharger les dépendances  
+
 ## Installation et exécution
 
 1. **Cloner le dépôt :**
