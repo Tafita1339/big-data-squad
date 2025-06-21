@@ -19,5 +19,5 @@ Dans ce README.md, vous allez voir le détail de l'installation et le setup de l
 
 3. **Lancer le notebook Jupyter :**
    ```bash
-   jupyter notebook clustering.ipynb
+   jupyter lab
    ```
